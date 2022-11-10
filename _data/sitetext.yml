@@ -62,17 +62,30 @@ zh: &DEFAULT_ZH_HANS
     section: about
 
   team:
-    title: "扫码联系"
-    text: "请使用对应的APP扫描一下二维码与我们取得联系。"
-    subtext: 如无对应app，请到应用市场下载并注册账号
+    title: "药品分类"
+    text: "Contact us via WeChat to get a free trial"
+    subtext: No upfront fee, Customer satisfaction guaranteed.
     section: team
     people:
-      - name: "WeChat"
-        role: ""
+      - name: "肺癌"
+        role: "文字测试以及链接测试<a href="https://www.gotv.shop">测试</a>"
         image: assets/img/team/1.jpg
       - name: "WeChat"
         role: ""
         image: assets/img/team/2.jpg
+
+#  team:
+#    title: "扫码联系"
+#    text: "请使用对应的APP扫描一下二维码与我们取得联系。"
+#    subtext: 如无对应app，请到应用市场下载并注册账号
+#    section: team
+#    people:
+#      - name: "WeChat"
+#        role: ""
+#        image: assets/img/team/1.jpg
+#      - name: "WeChat"
+#        role: ""
+#        image: assets/img/team/2.jpg
 
   contact:
     title: "留言咨询"
