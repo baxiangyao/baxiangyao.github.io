@@ -17,15 +17,15 @@ remote_theme: raviriley/agency-jekyll-theme
 url    : "https://www.baxiangyao.in" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : 靶向药商城
+title      : 靶向药商城--印度|孟加拉仿制靶向药
 email      : info@baxiangyao.in #this is also the email contact forms will go to
-description: "印度|孟加拉仿制靶向药--愿癌症病人花更少活更久"
+description: "愿癌症病人花更少活更久"
 author     : 靶向药
 logo:     #optional, defaults to site title
   path: baxiangyaologo.png
   height: 52 #height in px, defaults to 52px
 
-locale: "en-US"
+locale: "zh-CN"
 #locale: "en-US" # See available languages in _data/sitetext.yml
 
 analytics:
