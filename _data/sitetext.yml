@@ -46,7 +46,7 @@ zh: &DEFAULT_ZH_HANS
     section: portfolio
     closebutton: "关闭"
 
-  portfolio:
+  baxiangyao:
     title: "全部靶向药"
     text: "请点击查看相应靶向药"
     section: baxiangyao
