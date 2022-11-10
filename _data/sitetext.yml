@@ -41,8 +41,8 @@ zh: &DEFAULT_ZH_HANS
         icon: fab fa-markdown
 
   portfolio:
-    title: "Price"
-    text: "Select The Best Package for you"
+    title: "药品分类"
+    text: "请选择以下癌症种类查看相应靶向药"
     section: portfolio
     closebutton: "Close"
 
@@ -107,7 +107,7 @@ zh: &DEFAULT_ZH_HANS
         logo: assets/img/clients/macoslogo.png
 
   team:
-    title: "Free Trial"
+    title: "扫码联系"
     text: "Contact us via WeChat to get a free trial"
     subtext: No upfront fee, Customer satisfaction guaranteed.
     section: team
@@ -120,22 +120,22 @@ zh: &DEFAULT_ZH_HANS
         image: assets/img/team/2.jpg
 
   contact:
-    title: "Contact Us"
-    text: "Send us your request via the following form."
+    title: "留言咨询"
+    text: "请填写以下表格留言给我们"
     section: contact
     name: "Name*"
-    name-validation: "Please enter your name."
+    name-validation: "请输入姓名"
     email: "Email*"
-    email-validation: "Please enter your email address."
+    email-validation: "请输入邮箱地址"
     phone: "Phone Number"
-    phone-validation: "Please enter your phone number."
+    phone-validation: "请输入手机号码"
     message: "Message*"
-    message-validation: "Please enter a message."
+    message-validation: "请输入留言内容"
     subject: "Contact Form Submission"
-    submit: "Send Message"
+    submit: "发送"
 
   footer:
-    legal: "Privacy Policy"
+    legal: "隐私条款"
     social:
       - url: https://wechat.com
         icon: "fab fa-weixin"
@@ -149,3 +149,7 @@ zh: &DEFAULT_ZH_HANS
         icon: "fab fa-cc-mastercard"
       - url: https://bitcoin.org
         icon: "fab fa-bitcoin"
+zh-CN:
+  <<: *DEFAULT_ZH_HANS
+zh-SG:
+  <<: *DEFAULT_ZH_HANS

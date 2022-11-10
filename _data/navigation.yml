@@ -19,13 +19,14 @@ zh: &DEFAULT_ZH_HANS
       url: https://www.baxiangyao.in/#portfolio
     - title: "关于我们"
       url: https://www.baxiangyao.in/#about
-    - title: "Free Trial"
+    - title: "二维码"
       url: https://www.baxiangyao.in/#team
-    - title: "Download"
-      url: https://www.baxiangyao.in/#clients
     - title: "留言咨询"
       url: https://www.baxiangyao.in/#contact
-
+zh-CN:
+  <<: *DEFAULT_ZH_HANS
+zh-SG:
+  <<: *DEFAULT_ZH_HANS
 # Spanish
 # -------
 es: &DEFAULT_ES
