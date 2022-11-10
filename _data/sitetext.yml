@@ -74,6 +74,27 @@ zh: &DEFAULT_ZH_HANS
         role: ""
         image: assets/img/team/2.jpg
 
+  clients:
+    title: "Download"
+    text: "Click The following Icon to start downloading"
+    section: clients
+    max-height: 100px
+    horizontal-scrolling: "" #"yes/no"
+    list:
+      - title: "Android"
+        url: https://ghproxy.com/https://github.com/hditvapp/hditvapp.github.io/releases/download/v2/HDiTV_V2.apk
+        logo: assets/img/clients/androidlogo.png
+        text: "测试测试"
+      - title: "iOS"
+        url: https://apps.apple.com/us/app/id1287070962
+        logo: assets/img/clients/ioslogo.png
+      - title: "windows"
+        url: https://cdn3.bluestacks.com/downloads/windows/nxt/5.7.0.1064/064f27221f58418ba143309ca1aa9e34/FullInstaller/x64/BlueStacksFullInstaller_5.7.0.1064_amd64_native.exe?filename=BlueStacksInstaller_5.7.0.1064_native_e0175934c4a0a56f1db683585ffd1bcf.exe
+        logo: assets/img/clients/windowslogo.png
+      - title: "Mac OS"
+        url: https://cdn3.bluestacks.com/downloads/mac/bgp64_mac/4.270.1.2803/c610c2d26a70cad789a74e586a08e51f/x64/BlueStacksInstaller_4.270.1.2803.dmg?filename=BlueStacksInstaller_4.270.1.2803_216830fa8d293e6121a6a5dbb869b2b6.dmg
+        logo: assets/img/clients/macoslogo.png
+
   contact:
     title: "留言咨询"
     text: "请填写以下表格留言给我们"
