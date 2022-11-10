@@ -11,33 +11,33 @@
 # -----------------
 zh: &DEFAULT_ZH_HANS
   header:
-    title: Stable and High Resolution
-    text: Watch TV Everywhere!
-    button: Learn More
+    title: 质优价廉 印度|孟加拉靶向药 仿制药
+    text: 安全! 有效!
+    button: 了解详情
     buttonlink: "#services"
 
   services:
-    title: "Product"
-    text: "Product"
+    title: "优势"
+    text: "产品优势"
     section: services
     list:
-      - title: "1080P+H265"
-        desc: "Combine 1080P and H265，Low bandwidth, High resolution, stable watch with no lagging."
+      - title: "疗效好"
+        desc: "疗效不输原研药，有效率达原研药98%或更高。"
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Fast and Smooth Switch"
-        desc: "Smart Category, swift response, easy operation, no buffering during switch."
+      - title: "平价"
+        desc: "价格亲民，每个癌症病人消费的起的靶向药。"
         icon: fas fa-laptop
-      - title: "7 Days Rewind"
-        desc: "Rewind function for all channels, 7 days together with EPG funciton."
+      - title: "产能充足"
+        desc: "药企大量生产，批量进口。"
         icon: fab fa-markdown
-      - title: "Large selection of VOD embedded"
-        desc: "40000+ Movies, TV Show, Documentory, Cartoons etc. No ads, no limits, No extra fee"
+      - title: "发货快"
+        desc: "药品已入关，境内发货，顺丰包邮。"
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Multi Platform Supported"
-        desc: "Android，iOS(iPhone & iPad)，Windows PC and Mac OS all supported"
+      - title: "质量安全"
+        desc: "印度NATCO药厂生产，质量过关，药品安全。"
         icon: fas fa-laptop
-      - title: "7 Days free trial"
-        desc: "We provide 7 days free trial"
+      - title: "好评如潮"
+        desc: "为病人带来福音，已收获大量好评。"
         icon: fab fa-markdown
 
   portfolio:
