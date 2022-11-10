@@ -67,9 +67,10 @@ zh: &DEFAULT_ZH_HANS
     subtext: No upfront fee, Customer satisfaction guaranteed.
     section: team
     people:
-      - name: "Text"
+      - name: "某癌症"
         role: "文字测试以及链接测试<a href="https://www.gotv.shop">测试</a>"
         image: assets/img/team/1.jpg
+        text: "测试"
       - name: "WeChat"
         role: ""
         image: assets/img/team/2.jpg
