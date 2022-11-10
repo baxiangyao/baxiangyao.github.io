@@ -78,9 +78,12 @@ zh: &DEFAULT_ZH_HANS
     end: "Subscribe <br> to <br> ENJOY!"
 
   about:
-    title: "About Us"
-    text: "Best Supplier in IPTV Market"
-    body: "399 international live TV channels. Full program guide. 7 days palyback. Compatible with Android/ iOS/ Windows/ Mac system. One account streams on multiple devices!"
+    title: "关于我们"
+    text: "将平价靶向药带给广大癌症病友"
+    body: "随着癌症发病率的持续走高，“医疗通胀”也已被广泛提及，即便大部分的靶向药已经进入了医保，但仍然有很多病友无法拿到目录内的靶向药，自费购买仍然是一笔很大的开销。<br>
+    随着《我不是药神》的热映，印度仿制药，孟加拉仿制药逐渐走入人们视野,印度的各大药厂如NATCO等生产了廉价又优质的仿制药靶向药，很多患者用药后现身说法，向更多的病友普及这种质优价廉的仿制药，挽救了无数个家庭，也延长了很多病友的声明，不得不说是一个奇迹。<br>
+    我们也希望发挥我们的优势，将更多的疗效好，平价的靶向药带给广大的病友！<br>
+    愿癌症病人都能花更少，活更久！"
     section: about
 
   clients:
