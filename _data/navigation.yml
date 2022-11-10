@@ -17,6 +17,8 @@ zh: &DEFAULT_ZH_HANS
       url: https://www.baxiangyao.in/#services
     - title: "药品分类"
       url: https://www.baxiangyao.in/#portfolio
+    - title: "全部靶向药"
+      url: https://www.baxiangyao.in/baxiangyao
     - title: "关于我们"
       url: https://www.baxiangyao.in/#about
     - title: "二维码"
