@@ -29,7 +29,7 @@ locale: "zh-CN"
 #locale: "en-US" # See available languages in _data/sitetext.yml
 
 analytics:
-  google:  G-GK7MG2LMNK #Google Analytics tracking code here
+  google: G-FJD4XCZLG4 #Google Analytics tracking code here
 
 collections:
   portfolio:
