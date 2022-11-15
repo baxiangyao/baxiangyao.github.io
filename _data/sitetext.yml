@@ -68,7 +68,7 @@ zh: &DEFAULT_ZH_HANS
     section: team
     people:
       - name: "WeChat"
-        role: "ABC"
+        role: <a href="https://www.w3schools.com/">ABC</a>
         image: assets/img/team/1.jpg
       - name: "WeChat"
         role: "DEF"
