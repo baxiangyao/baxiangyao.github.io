@@ -64,11 +64,10 @@ zh: &DEFAULT_ZH_HANS
     section: team
     people:
       - name: "WeChat"
-        role: <a href="https://www.baxiangyao.in/#p4">ABC</a>
+        role: ""
         image: assets/img/team/1.jpg
       - name: "WeChat"
-        role: "DEF"
-        url: https://baxiangyao.in/#about
+        role: ""
         image: assets/img/team/2.jpg
 
   contact:
