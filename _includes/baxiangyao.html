@@ -9,6 +9,7 @@
     </div>
     <div class="row">
 	{% for project in site.porfolio %}
+  {% if project.caption.subtitle == "肝癌" %}
       <div class="col-md-4 col-sm-3 portfolio-item">
         <a class="portfolio-link" data-toggle="modal" href="#p{{ forloop.index }}">
           <div class="portfolio-hover">
@@ -23,6 +24,7 @@
           <p class="text-muted">{{ project.caption.subtitle }}</p>
         </div>
       </div>
+  {% endif %}
 	{% endfor %}
     </div>
     <div class="row">
