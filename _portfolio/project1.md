@@ -6,7 +6,7 @@ alt:
 
 caption:
   title: Quarter Subscription
-  subtitle: RMB 450
+  subtitle: 肝癌
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
 Quarter (3 Months) Subscription

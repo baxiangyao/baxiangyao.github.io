@@ -6,7 +6,7 @@ alt:
 
 caption:
   title: Semi-Year Subscription
-  subtitle: RMB 800
+  subtitle: 胃癌
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
 Semi-Year (6 Months) Subscription
