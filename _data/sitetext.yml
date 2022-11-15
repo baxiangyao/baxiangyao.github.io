@@ -46,12 +46,6 @@ zh: &DEFAULT_ZH_HANS
     section: portfolio
     closebutton: "关闭"
 
-  baxiangyao:
-    title: "全部靶向药"
-    text: "请点击查看相应靶向药"
-    section: baxiangyao
-    closebutton: "关闭"
-
   about:
     title: "关于我们"
     text: "将平价靶向药带给广大癌症病友"
