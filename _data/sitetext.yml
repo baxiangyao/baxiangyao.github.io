@@ -98,8 +98,7 @@ zh: &DEFAULT_ZH_HANS
         icon: "fab fa-cc-visa"
       - url: https://mastercard.com
         icon: "fab fa-cc-mastercard"
-      - url: https://bitcoin.org
-        icon: "fab fa-bitcoin"
+        
 zh-CN:
   <<: *DEFAULT_ZH_HANS
 zh-SG:
